@@ -10,6 +10,10 @@ Developed an end-to-end Retail Analytics project using Tableau to analyse sales 
 - Order Items
 - Employees
 
+### Create relationships between tables,
+  <img width="564" height="182" alt="Screenshot 2026-11-04 144958" src="https://github.com/user-attachments/assets/ad505a8c-d642-472f-9573-89c2f9702120" />
+
+
 ## Dashboards
 
 ### 1. Executive Sales Overview
